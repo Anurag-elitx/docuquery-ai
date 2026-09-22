@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+langchain
+faiss-cpu
+openai
+google-generativeai
+psycopg2-binary
+sqlalchemy
+pymupdf
+python-multipart
+pydantic-settings
+pytest
